@@ -1,5 +1,7 @@
 ## Olá, eu sou o Thiago Souza, seja bem-vindo! 👋
 
+![VISITANTES](https://api.visitorbadge.io/api/VisitorHit?user=thiagosouzalink&repo=thiagosouzalink&label=VISITANTES&countColor=%232B5B84)
+
 <br>
 <h3>
   <ul>
@@ -43,8 +45,12 @@
 ##
 
 <a href="https://github.com/thiagosouzalink/">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzalink&layout=compact&langs_count=6&theme=tokyonight&hide=jupyter%20Notebook" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosouzalink&layout=compact&langs_count=7&theme=tokyonight" />
 </a>
+<a href="https://github.com/thiagosouzalink/">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagosouzalink&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</a>
+
 
 
 
