@@ -33,7 +33,7 @@
 ### Computação em Nuvem | Cloud computing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ### Processamento de Dados/Big Data | Data Processing/Big Data
-![APACHE SPARK](https://img.shields.io/badge/Apache%20Spark-DE5833?style=for-the-badge&logo=apachespark&logoColor=white)
+![APACHE SPARK](https://img.shields.io/badge/Apache%20Spark-1D6890?style=for-the-badge&logo=apachespark)
 
 <br>
 
