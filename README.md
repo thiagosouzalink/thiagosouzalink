@@ -5,10 +5,9 @@
 
 <h2> Sobre mim / About Me</h2>
 <h3>
-  [PT]<br>
-  Graduado em Engenharia da Computação - UFPA, atualmente concentro meus estudos/interesses na área de dados e ocupo o cargo de Engenheiro de Dados Jr.<br>
-  [EN]<br>
-  I have a degree in Computer Engineering - UFPA, currently I focus my studies/interests in the area of data and I hold the position of Junior Data Engineer.
+  [PT] Graduado em Engenharia da Computação - UFPA, atualmente concentro meus estudos/interesses na área de dados e ocupo o cargo de Engenheiro de Dados Jr.<br>
+  <br>
+  [EN] I have a degree in Computer Engineering - UFPA, currently I focus my studies/interests in the area of data and I hold the position of Junior Data Engineer.
   <br><br>
 </h3>
 <br>
@@ -21,7 +20,7 @@
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-### Banco de Dados / Database
+### Banco de Dados / Databases
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-F7F7F7?style=for-the-badge&logo=mysql&logoColor=black)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -33,7 +32,7 @@
 ### Computação em Nuvem | Cloud computing
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ### Processamento de Dados/Big Data | Data Processing/Big Data
-![APACHE SPARK](https://img.shields.io/badge/Apache%20Spark-1D6890?style=for-the-badge&logo=apachespark)
+![APACHE SPARK](https://img.shields.io/badge/Apache%20Spark-F3F1EA?style=for-the-badge&logo=apachespark)
 
 <br>
 
