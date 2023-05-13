@@ -47,12 +47,6 @@
   <a href="https://www.instagram.com/thiagosouzalink/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-D03475?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.facebook.com/thiagosouzalink/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-166FE5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://twitter.com/thiagosouzalink/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank">
-  </a>
 </div>
 <br>
 
