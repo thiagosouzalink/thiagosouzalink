@@ -18,6 +18,8 @@
 ### Bibliotecas/Frameworks | Libraries/Frameworks
 ![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![POLARS](https://img.shields.io/badge/Polars-0075FF?style=for-the-badge&logo=polars&logoColor=white)
+![DUCKDB](https://img.shields.io/badge/DUCKDB-000000?style=for-the-badge&logo=duckdb&logoColor=yellow)
 ![DJANGO](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ### Banco de Dados / Databases
