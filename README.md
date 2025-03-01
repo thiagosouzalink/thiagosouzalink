@@ -5,9 +5,9 @@
 
 <h2> Sobre mim / About Me</h2>
 <h3>
-  [PT] Graduado em Engenharia da Computação - UFPA, atualmente concentro meus estudos/interesses na área de dados e ocupo o cargo de Engenheiro de Dados Jr.<br>
+  [PT] Graduado em Engenharia da Computação - UFPA, atualmente concentro meus estudos/interesses na área de dados e ocupo o cargo de Engenheiro de Dados.<br>
   <br>
-  [EN] I have a degree in Computer Engineering - UFPA, currently I focus my studies/interests in the area of data and I hold the position of Junior Data Engineer.
+  [EN] I have a degree in Computer Engineering - UFPA, currently I focus my studies/interests in the area of data and I hold the position of Data Engineer.
   <br><br>
 </h3>
 <br>
@@ -20,7 +20,6 @@
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![POLARS](https://img.shields.io/badge/Polars-0075FF?style=for-the-badge&logo=polars&logoColor=white)
 ![DUCKDB](https://img.shields.io/badge/DUCKDB-000000?style=for-the-badge&logo=duckdb&logoColor=yellow)
-![DJANGO](https://img.shields.io/badge/Django-0C4B33?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ### Banco de Dados / Databases
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
