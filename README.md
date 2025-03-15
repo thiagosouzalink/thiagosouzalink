@@ -16,9 +16,9 @@
 ### Linguagem de Programação | Programming Language
 ![PYTHON](https://img.shields.io/badge/Python-2B5B84?style=for-the-badge&logo=python&logoColor=white)
 ### Bibliotecas/Frameworks | Libraries/Frameworks
-![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![PANDAS](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![POLARS](https://img.shields.io/badge/Polars-0075FF?style=for-the-badge&logo=polars&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-1B5162?style=for-the-badge&logo=apache-spark&logoColor=orange)
 ![DUCKDB](https://img.shields.io/badge/DUCKDB-000000?style=for-the-badge&logo=duckdb&logoColor=yellow)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ### Banco de Dados / Databases
@@ -31,7 +31,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)
 ### Computação em Nuvem | Cloud computing
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ### Processamento de Dados/Big Data | Data Processing/Big Data
 ![APACHE SPARK](https://img.shields.io/badge/Apache%20Spark-F3F1EA?style=for-the-badge&logo=apachespark)
 
