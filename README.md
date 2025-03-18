@@ -34,6 +34,9 @@
 ![AWS](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ### Processamento de Dados/Big Data | Data Processing/Big Data
 ![APACHE SPARK](https://img.shields.io/badge/Apache%20Spark-F3F1EA?style=for-the-badge&logo=apachespark)
+### Infraestrutura/DevOps | Infrastructure/DevOps
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 <br>
 
