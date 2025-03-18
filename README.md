@@ -43,16 +43,15 @@
 ## Contato/Conexões | Contact/Connections
 <div>
   <a href="mailto:thiagolsmail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/thiagosouzalink/" target="_blank">
-    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LINKEDIN&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LINKEDIN&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/thiagosouzalink/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-D03475?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-D03475?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<br>
 
 ##
 
